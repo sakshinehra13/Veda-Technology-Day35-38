@@ -1,0 +1,16 @@
+[
+    {
+        "program_id": "P001",
+        "title": "Full Stack Web Development",
+        "prog_type": "Training",
+        "duration": "12 Weeks",
+        "status": "Active"
+    },
+    {
+        "program_id": "P002",
+        "title": "Python & AI Engineering Internship",
+        "prog_type": "Internship",
+        "duration": "6 Weeks",
+        "status": "Active"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "inquiry_id": "I001",
+        "customer_id": "C001",
+        "subject": "Cloud Migration Inquiry",
+        "message": "Looking for enterprise timeline.",
+        "status": "Open",
+        "date": "2026-10-01 10:00"
+    },
+    {
+        "inquiry_id": "I002",
+        "customer_id": "C002",
+        "subject": "Internship Enrollment",
+        "message": "Details regarding Python internship.",
+        "status": "Resolved",
+        "date": "2026-10-01 11:30"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "service_id": "S001",
+        "name": "Cloud Migration Suite",
+        "category": "Digital Services",
+        "price": 4500.0,
+        "status": "Active"
+    },
+    {
+        "service_id": "S002",
+        "name": "AI Data Pipeline",
+        "category": "Technology",
+        "price": 7200.0,
+        "status": "Active"
+    },
+    {
+        "service_id": "S003",
+        "name": "Cybersecurity Assessment",
+        "category": "Digital Services",
+        "price": 3000.0,
+        "status": "Active"
+    }
+]
